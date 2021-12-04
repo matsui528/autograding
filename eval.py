@@ -13,7 +13,7 @@ if __name__ == '__main__':
     if msg == "Hello World!":
         print("Ok!")
     else:
-        print("Error:")
+        print("Error. The outupt is:")
         print("```")
         print(msg)
         print("```")
